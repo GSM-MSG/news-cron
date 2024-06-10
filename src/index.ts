@@ -1,3 +1,13 @@
-import { sendYozm } from "./yozm";
+import { sendDesignYozm } from "./yozm-design";
+import { sendDevelopYozm } from "./yozm-develop";
+import { sendPMYozm } from "./yozm-pm";
+import { sendProductYozm } from "./yozm-product";
 
-sendYozm();
+async function main() {
+  await sendDevelopYozm();
+  await sendDesignYozm();
+  await sendPMYozm();
+  await sendProductYozm();
+}
+
+main();

@@ -21,7 +21,7 @@ const setLastNewsTitle = (news: LastYozmDevelopNews) => {
   setJSON(yozmDevelopJSONFile, news);
 };
 
-const getYozmList = async () => {
+const getDevelopYozmList = async () => {
   const yozmBaseURL = "https://yozm.wishket.com";
   const result: News[] = [];
   let html: AxiosResponse<any> | undefined;
@@ -51,8 +51,8 @@ const getYozmList = async () => {
   return result.slice(0, 5);
 };
 
-export const sendYozm = async () => {
-  const yozmList = await getYozmList();
+export const sendDevelopYozm = async () => {
+  const yozmList = await getDevelopYozmList();
   const lastNewsTitle = getLastNewsTitle();
   let filteredList = yozmList;
 
@@ -81,7 +81,7 @@ export const sendYozm = async () => {
   );
 
   await webhookClient.send({
-    content: `## 오늘의 요즘IT 최신글 ${filteredList.length}개!`,
+    content: `## 오늘의 요즘IT-개발 최신글 ${filteredList.length}개!`,
     embeds: embeds
   });
 
