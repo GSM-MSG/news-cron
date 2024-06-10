@@ -1,4 +1,4 @@
-name: cron
+name: news letter cron
 
 on:
   workflow_dispatch:
@@ -19,6 +19,8 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
+      - name: Create .env file
+        run: echo "${{ secrets.DOTENV }}" > .env
+
       - name: Run Newsletter
-        run: |
-          npm run prod
+        run: npm run prod
