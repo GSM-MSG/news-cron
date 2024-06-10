@@ -23,7 +23,9 @@ jobs:
         run: echo "${{ secrets.DOTENV }}" > .env
 
       - name: Run Newsletter
-        run: npm run prod
+        run: |
+          npm install
+          npm run prod
 
       - name: Push File Changes
         run: |
