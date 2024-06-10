@@ -1,7 +1,9 @@
+import "dotenv/config";
 import axios, { AxiosResponse } from "axios";
 import * as cheerio from "cheerio";
 import { EmbedBuilder, WebhookClient } from "discord.js";
 import { News } from "./news";
+import dayjs from "dayjs";
 
 const getYozmList = async () => {
   const yozmBaseURL = "https://yozm.wishket.com";
@@ -30,14 +32,13 @@ const getYozmList = async () => {
     };
     result.push(news);
   });
-  return result;
+  return result.slice(0, 5).reverse();
 };
 
 export const sendYozm = async () => {
   const yozmList = await getYozmList();
-  console.log(yozmList);
   const webhookClient = new WebhookClient({
-    url: "https://discord.com/api/webhooks/1248659872149536869/pRXkrfloy6l-CxJEIBxVp92ywI2ooHz68fA400LpYSkY_4W5rDe76Qek-6njXK7Xn68a"
+    url: process.env.YOZM_WEBHOOK ?? ""
   });
 
   const embeds = yozmList.map((news) =>
@@ -49,9 +50,9 @@ export const sendYozm = async () => {
       .setThumbnail(news.thumbnailURL ?? null)
   );
 
-  const currentDate = new Date();
+  const currentDate = dayjs();
   await webhookClient.send({
-    content: `## ${currentDate.getFullYear()}년 ${currentDate.getMonth()}월 ${currentDate.getDay()}일 요즘 IT 최신글 10개`,
+    content: `## 오늘의 요즘IT 최신글 5개!`,
     embeds: embeds
   });
 };
