@@ -24,3 +24,12 @@ jobs:
 
       - name: Run Newsletter
         run: npm run prod
+
+      - name: Push File Changes
+        run: |
+          git config --global user.name "baekteun"
+          git config --global user.email "baegteun@gmail.com"
+          git pull origin master
+          git add .
+          git commit -m ":card_file_box: DB 업데이트!" || exit 0
+          git push

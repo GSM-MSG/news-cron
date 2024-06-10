@@ -4,6 +4,22 @@ import * as cheerio from "cheerio";
 import { EmbedBuilder, WebhookClient } from "discord.js";
 import { News } from "./news";
 import dayjs from "dayjs";
+import { getJSON, setJSON } from "./utils/json-utils";
+
+interface LastYozmDevelopNews {
+  title: string;
+}
+
+const yozmDevelopJSONFile = "./yozm-it-news-develop.json";
+
+const getLastNewsTitle = (): string | null => {
+  const json = getJSON<LastYozmDevelopNews>(yozmDevelopJSONFile);
+  return json?.title ?? null;
+};
+
+const setLastNewsTitle = (news: LastYozmDevelopNews) => {
+  setJSON(yozmDevelopJSONFile, news);
+};
 
 const getYozmList = async () => {
   const yozmBaseURL = "https://yozm.wishket.com";
@@ -32,16 +48,30 @@ const getYozmList = async () => {
     };
     result.push(news);
   });
-  return result.slice(0, 5).reverse();
+  return result.slice(0, 5);
 };
 
 export const sendYozm = async () => {
   const yozmList = await getYozmList();
+  const lastNewsTitle = getLastNewsTitle();
+  let filteredList = yozmList;
+
+  if (lastNewsTitle) {
+    const lastIndex = yozmList.findIndex((news) => news.title === lastNewsTitle);
+    if (lastIndex !== -1) {
+      filteredList = yozmList.slice(0, lastIndex);
+    }
+  }
+
+  if (filteredList.length === 0) {
+    return;
+  }
+
   const webhookClient = new WebhookClient({
     url: process.env.YOZM_WEBHOOK ?? ""
   });
 
-  const embeds = yozmList.map((news) =>
+  const embeds = filteredList.reverse().map((news) =>
     new EmbedBuilder()
       .setTitle(news.title)
       .setDescription(news.description)
@@ -50,9 +80,11 @@ export const sendYozm = async () => {
       .setThumbnail(news.thumbnailURL ?? null)
   );
 
-  const currentDate = dayjs();
   await webhookClient.send({
-    content: `## 오늘의 요즘IT 최신글 5개!`,
+    content: `## 오늘의 요즘IT 최신글 ${filteredList.length}개!`,
     embeds: embeds
   });
+
+  const lastIndex = filteredList.length - 1;
+  setLastNewsTitle(filteredList[lastIndex]);
 };
