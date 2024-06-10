@@ -10,7 +10,7 @@ interface LastYozmDesignNews {
   title: string;
 }
 
-const yozmDesignJSONFile = "./yozm-it-news-pm.json";
+const yozmDesignJSONFile = "./yozm-it-news-design.json";
 
 const getLastNewsTitle = (): string | null => {
   const json = getJSON<LastYozmDesignNews>(yozmDesignJSONFile);
