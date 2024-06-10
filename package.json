@@ -1,0 +1,19 @@
+{
+  "name": "Newsletter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GSM-MSG/news-cron",
+  "author": "MSG",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc --build",
+    "prod": "npm run build && npm run start",
+    "start": "node ./dist/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.15.3"
+  }
+}
