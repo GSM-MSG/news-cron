@@ -45,7 +45,7 @@ const getEOPlanetList = async () => {
     };
     result.push(news);
   });
-  return result.slice(0, 20);
+  return result.slice(0, 10);
 };
 
 export const sendEOPlanet = async () => {
