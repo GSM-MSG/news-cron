@@ -68,19 +68,19 @@ export const sendEOPlanet = async () => {
     url: process.env.EO_PLANET_WEBHOOK ?? ""
   });
 
-  const embeds = filteredList.reverse().map((news) =>
-    new EmbedBuilder()
+  filteredList.reverse().forEach(async (news) => {});
+  for (const news of filteredList.reverse()) {
+    const embed = new EmbedBuilder()
       .setTitle(news.title)
       .setDescription(news.description)
       .setURL(news.url)
       .setColor(news.color)
-      .setThumbnail(news.thumbnailURL ?? null)
-  );
+      .setThumbnail(news.thumbnailURL ?? null);
 
-  await webhookClient.send({
-    content: `## 오늘의 EO Planet 최신글 ${filteredList.length}개!`,
-    embeds: embeds
-  });
+    await webhookClient.send({
+      embeds: [embed]
+    });
+  }
 
   const lastIndex = filteredList.length - 1;
   setLastNewsTitle(filteredList[lastIndex]);

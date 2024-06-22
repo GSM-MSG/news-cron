@@ -3,7 +3,7 @@ name: news letter cron
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 23,9 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   cron:
