@@ -68,7 +68,6 @@ export const sendEOPlanet = async () => {
     url: process.env.EO_PLANET_WEBHOOK ?? ""
   });
 
-  filteredList.reverse().forEach(async (news) => {});
   for (const news of filteredList.reverse()) {
     const embed = new EmbedBuilder()
       .setTitle(news.title)
