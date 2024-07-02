@@ -1,4 +1,5 @@
 import { sendEOPlanet } from "./eo-planet";
+import { sendProductLab } from "./product-lab";
 import { sendDesignYozm } from "./yozm-design";
 import { sendDevelopYozm } from "./yozm-develop";
 import { sendPMYozm } from "./yozm-pm";
@@ -10,6 +11,7 @@ async function main() {
   await sendPMYozm();
   await sendProductYozm();
   await sendEOPlanet();
+  await sendProductLab();
 }
 
 main();
