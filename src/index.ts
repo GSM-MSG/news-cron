@@ -1,4 +1,5 @@
 import { sendEOPlanet } from "./eo-planet";
+import { sendLeadersCompass } from "./leaders-compass";
 import { sendProductLab } from "./product-lab";
 import { sendTipster } from "./tipster";
 import { sendDesignYozm } from "./yozm-design";
@@ -7,13 +8,14 @@ import { sendPMYozm } from "./yozm-pm";
 import { sendProductYozm } from "./yozm-product";
 
 async function main() {
-  // await sendDevelopYozm();
-  // await sendDesignYozm();
-  // await sendPMYozm();
-  // await sendProductYozm();
-  // await sendEOPlanet();
-  // await sendProductLab();
+  await sendDevelopYozm();
+  await sendDesignYozm();
+  await sendPMYozm();
+  await sendProductYozm();
+  await sendEOPlanet();
+  await sendProductLab();
   await sendTipster();
+  await sendLeadersCompass();
 }
 
 main();
