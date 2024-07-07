@@ -45,7 +45,7 @@ const getDevPillList = async () => {
           .find("a > div:nth-child(2) > div")
           .attr("style")
           ?.match(/url\(["']?([^"']*)["']?\)/)?.[1] ?? "",
-      color: 0xe7be54
+      color: 0xe1031d
     };
     result.push(news);
   });
