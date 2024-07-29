@@ -1,7 +1,7 @@
 {
-  "title": "[PyCon US 원정대] ① 온 가족이 함께 가는 개발 콘퍼런스",
-  "description": "원래 PyCon US 2024에 갈 생각은 전혀 없었다. 그런데 어느 날, PyCon US의 아시아 그랜트 비율이나 참여율이 저조하다는 얘기를 들었다. 곧 PyCon US의 얼리버...",
-  "url": "https://yozm.wishket.com/magazine/detail/2689/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2689/image4_ouP12Ob.png",
+  "title": "데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’",
+  "description": "지난 두 편의 글을 통해 데브섹옵스(DevSecOps)와 정적 보안 테스팅(SAST)에 대해 알아봤습니다. 이번 글에서는 정적 보안 테스팅을 상호 보완할 수 있는 ‘동적 보안 테스...",
+  "url": "https://yozm.wishket.com/magazine/detail/2692/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2692/image4.png",
   "color": 7017966
 }
