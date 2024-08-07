@@ -30,6 +30,7 @@ const getFENewsList = async () => {
     $ = cheerio.load(html?.data);
   } catch (error) {
     console.log("ERROR : getFENews");
+    console.error(error);
     return result;
   }
 
