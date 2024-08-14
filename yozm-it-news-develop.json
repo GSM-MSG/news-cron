@@ -1,7 +1,7 @@
 {
-  "title": "경쟁력 있는 개발자를 위한 ‘클라우드 디자인 패턴’",
-  "description": "여러분은 서버를 어디에 배포하나요? 10년 사이, 수많은 IT 기업이 클라우드 전환을 마쳤습니다. 클라우드 환경이 가져다준 변화 중 하나는 바로 배포와 확장의 유연함입니다. 물론 ...",
-  "url": "https://yozm.wishket.com/magazine/detail/2713/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2713/image.png",
+  "title": "CHAR vs. VARCHAR, 언제 어떻게 써야 할까?",
+  "description": "오늘은 문자열 컬럼 타입의 선정에 대해 알아보겠습니다. 특히 MySQL 서버에서 문자열을 저장하는 타입 가운데 CHAR와 VARCHAR 타입의 장점과 단점, 그리고 용도에 대해서 ...",
+  "url": "https://yozm.wishket.com/magazine/detail/2717/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2717/image7.png",
   "color": 7017966
 }
