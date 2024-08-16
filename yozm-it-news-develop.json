@@ -1,7 +1,7 @@
 {
-  "title": "CHAR vs. VARCHAR, 언제 어떻게 써야 할까?",
-  "description": "오늘은 문자열 컬럼 타입의 선정에 대해 알아보겠습니다. 특히 MySQL 서버에서 문자열을 저장하는 타입 가운데 CHAR와 VARCHAR 타입의 장점과 단점, 그리고 용도에 대해서 ...",
-  "url": "https://yozm.wishket.com/magazine/detail/2717/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2717/image7.png",
+  "title": "[PyCon US 원정대] ④ 무작정 오픈 소스 컨트리뷰터 도전하기",
+  "description": "미국에 간다. 그것도 개발 행사 참여를 위해. PyCon US에서 가장 경험해 보고 싶은 것이 뭔지 고민했다. 그러나 개인적으로 가장 해보고 싶은 것은 스프린트(Sprint)에 참...",
+  "url": "https://yozm.wishket.com/magazine/detail/2718/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2718/image3.png",
   "color": 7017966
 }
