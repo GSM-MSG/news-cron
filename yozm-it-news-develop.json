@@ -1,7 +1,7 @@
 {
-  "title": "쇼핑몰도 ‘맞춤 개발’ 하는 이유",
-  "description": "인터넷에는 아주 다양한 쇼핑몰이 존재합니다. 이런 쇼핑몰은 누가, 어떻게 만들까요? 세 가지 방법이 일반적입니다. 직접 사내 개발팀을 두고 만들거나, SI 기업에 큰돈을 주고 맡기...",
-  "url": "https://yozm.wishket.com/magazine/detail/2734/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2734/7.png",
+  "title": "MySQL 콜레이션은 어떻게 동작할까?",
+  "description": "이번 글에서는 MySQL의 콜레이션에 대해 살펴보려고 합니다. 전반적인 개요와 함께 MySQL 8.0에 새롭게 추가된 콜레이션들을 위주로 어떻게 동작하는지, 동작 방식과 주의해야 ...",
+  "url": "https://yozm.wishket.com/magazine/detail/2736/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2736/1.png",
   "color": 7017966
 }
