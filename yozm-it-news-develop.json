@@ -1,7 +1,7 @@
 {
-  "title": "R 개발자가 ‘R-universe’로 패키지 생태계 운영하는 법",
-  "description": "R 패키지는 R에서 사용할 수 있는 기능들의 모음으로, 다른 프로그래밍 언어의 라이브러리와 유사한 개념이다. R은 일반적인 프로그래밍 언어와는 살짝 결이 다르고, 매트랩(Matla...",
-  "url": "https://yozm.wishket.com/magazine/detail/2745/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2745/1.png",
+  "title": "MySQL 콜레이션 사용 시 주의할 점은?",
+  "description": "지난 글에서는 전반적인 개요와 함께 MySQL 8.0에 새롭게 추가된 콜레이션들을 위주로 어떻게 동작하는지, 동작 방식과 설정하기 등을 살펴봤는데요. 이번 글에서는 MySQL의 콜...",
+  "url": "https://yozm.wishket.com/magazine/detail/2746/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2746/sql.png",
   "color": 7017966
 }
