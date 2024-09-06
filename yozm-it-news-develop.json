@@ -1,7 +1,7 @@
 {
-  "title": "AI 스마트폰의 핵심, LLM 경량화 테크닉",
-  "description": "최근 갤럭시 s24를 시작으로 서버나 클라우드에 연동할 필요 없이 스마트폰에서 직접 생성형 AI 기능을 활용할 수 있는 ‘AI 스마트폰’이 관심을 모으고 있습니다. 하지만 초거대언...",
-  "url": "https://yozm.wishket.com/magazine/detail/2747/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2747/3d-rendering-biorobots-concept__2_.jpg",
+  "title": "Ollama에 없는 모델 내가 만들어 사용하기 (2)",
+  "description": "K8sGPT에 로컬 AI 제공자를 만들어 적용하기 위해 Ollama의 create 명령으로 내가 필요한 모델을 적용하는 방법을 알아보고 있습니다. 앞서 1부 글에서는 모델을 내려받...",
+  "url": "https://yozm.wishket.com/magazine/detail/2752/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2752/image5.png",
   "color": 7017966
 }
