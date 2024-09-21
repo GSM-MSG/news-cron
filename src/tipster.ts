@@ -41,11 +41,10 @@ const getTipsterList = async () => {
         title: $(elem).find("a > div > div.text-slate-900").text().trim(),
         description: $(elem).find("a > div > p.text-slate-700").text().slice(0, 100) + "...",
         url: $(elem).find("a").attr("href") ?? "",
-        thumbnailURL:
-          $(elem)
-            .find("a > div:nth-child(2) > div")
-            .attr("style")
-            ?.match(/url\(["']?([^"']*)["']?\)/)?.[1] ?? "",
+        thumbnailURL: $(elem)
+          .find("a > div:nth-child(2) > div")
+          .attr("style")
+          ?.match(/url\(["']?([^"']*)["']?\)/)?.[1],
         color: 0xe7be54
       };
       result.push(news);
