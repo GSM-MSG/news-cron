@@ -1,7 +1,7 @@
 {
-  "title": "자바 DTO vs Record, 무엇을 사용해야 할까?",
-  "description": "우리는 종종 Java 애플리케이션의 다양한 계층 간 또는 서비스 간에 데이터를 전송해야 합니다. 이를 위해 DTO(Data Transfer Object, 데이터 전송 객체)를 사용...",
-  "url": "https://yozm.wishket.com/magazine/detail/2814/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2814/caspar-camille-rubin-fPkvU7RDmCo-unsplash__1_.jpg",
+  "title": "테라폼의 원형, 베이그런트의 앞날은?",
+  "description": "클라우드 인프라 교육 목적으로 아주 많이 쓰이는 ‘베이그런트(Vagrant)’라는 도구가 있습니다. IaC 도구 중에 하나로, 이 영역에서 현업 개발자에게 더 유명한 도구로는 테라...",
+  "url": "https://yozm.wishket.com/magazine/detail/2815/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2815/image__4_.png",
   "color": 7017966
 }
