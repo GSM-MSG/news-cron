@@ -1,7 +1,7 @@
 {
-  "title": "테라폼의 원형, 베이그런트의 앞날은?",
-  "description": "클라우드 인프라 교육 목적으로 아주 많이 쓰이는 ‘베이그런트(Vagrant)’라는 도구가 있습니다. IaC 도구 중에 하나로, 이 영역에서 현업 개발자에게 더 유명한 도구로는 테라...",
-  "url": "https://yozm.wishket.com/magazine/detail/2815/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2815/image__4_.png",
+  "title": "정적? 동적? 웹사이트 화면은 어떻게 채워질까?",
+  "description": "우리가 브라우저 주소창에 URL을 입력하면 무슨 일이 벌어질까요? 클라이언트가 서버에게 웹 페이지를 달라고 요청하면 서버는 이 페이지에 대한 코드를 브라우저한테 돌려줍니다. 이 H...",
+  "url": "https://yozm.wishket.com/magazine/detail/2817/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2817/07_02.jpeg",
   "color": 7017966
 }
