@@ -1,7 +1,7 @@
 {
-  "title": "서비스가 커질수록 API는 왜 점점 더 못생겨질까요? - BFF 패턴으로 풀어보는 진화하는 API 설계",
-  "description": "프론트엔드도, 백엔드도 만족시키는 우아한 API 설계 패턴의 비밀...",
-  "url": "https://maily.so/devpill/posts/fed1e1e7",
-  "thumbnailURL": "https://cdn.maily.so/z5emraiw3op5qflukwjhzom48ltb",
+  "title": "잘못된 캐싱 전략이 당신의 서비스를 망치고 있습니다",
+  "description": "캐싱을 활용한 확실한 성능 개선 비법 대공개...",
+  "url": "https://maily.so/devpill/posts/8do7dxleogq",
+  "thumbnailURL": "https://cdn.maily.so/czsfe1k3sj3ucen2jku43kpx7fn5",
   "color": 14746397
 }
