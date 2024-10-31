@@ -1,7 +1,7 @@
 {
-  "title": "QA팀이 테스트 자동화 지표로 ‘신뢰성’ 회복한 방법",
-  "description": "이미 많은 QA 조직에서 시행하고 있는 것처럼 29CM QA팀도 앱 테스트 자동화와 API 테스트 자동화가 실행되고 있습니다. API 테스트 자동화의 경우 API 자체의 수정이 그...",
-  "url": "https://yozm.wishket.com/magazine/detail/2823/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2823/4.webp",
+  "title": "‘진짜 서비스’에 쓸 AI 모델 만들기: 서비스 요구 사항과 학습 데이터셋",
+  "description": "“서비스를 위한 AI를 개발한다”라고 할 때는 학습 데이터셋이 없는 경우가 많습니다. 물론 준비된 경우도 있겠지만, 실무에서는 없는 경우가 꽤 많죠. 테스트 데이터셋도, 어떻게 테...",
+  "url": "https://yozm.wishket.com/magazine/detail/2824/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2824/16_6YukusE.png",
   "color": 7017966
 }
