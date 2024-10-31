@@ -1,7 +1,7 @@
 {
-  "title": "‘진짜 서비스’에 쓸 AI 모델 만들기: 서비스 요구 사항과 학습 데이터셋",
-  "description": "“서비스를 위한 AI를 개발한다”라고 할 때는 학습 데이터셋이 없는 경우가 많습니다. 물론 준비된 경우도 있겠지만, 실무에서는 없는 경우가 꽤 많죠. 테스트 데이터셋도, 어떻게 테...",
-  "url": "https://yozm.wishket.com/magazine/detail/2824/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2824/16_6YukusE.png",
+  "title": "개발자의 숙제 ‘레거시 코드’ 정리하는 법",
+  "description": "레거시 코드 정리는 모든 개발자에게 피할 수 없는 과제이자 커다란 부담이다. 특히 시간이 지나면서 유지 보수가 어려워진 코드는 점차 기술 부채로 쌓여가며, 프로젝트의 장기적인 성장...",
+  "url": "https://yozm.wishket.com/magazine/detail/2825/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2825/109672.jpg",
   "color": 7017966
 }
