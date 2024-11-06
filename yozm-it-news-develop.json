@@ -1,7 +1,7 @@
 {
-  "title": "막막한 개발자 면접, 1분 자기소개 준비하기",
-  "description": "최근 한 개발자 커뮤니티 대나무숲에서 자기소개에 대한 고민 글을 보게 되었습니다. “내일 면접인데 혹시 자기소개는 보통 어떤 식으로 하나요? 무슨 말로 자기소개를 해야 할지, 어느...",
-  "url": "https://yozm.wishket.com/magazine/detail/2832/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2832/4671.jpg",
+  "title": "트랜잭셔널 메시징에도, 그냥 PostgreSQL 쓰세요",
+  "description": "트랜잭셔널 메시징이란 “메시지를 데이터베이스 트랜잭션의 일부로 발행하는 것”을 의미한다. 애플리케이션 비즈니스 로직에 의해 데이터베이스를 수정하는 작업과 메시지 큐에 메시지를 발행...",
+  "url": "https://yozm.wishket.com/magazine/detail/2833/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2833/image3.png",
   "color": 7017966
 }
