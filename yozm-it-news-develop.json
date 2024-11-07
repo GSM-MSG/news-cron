@@ -1,7 +1,7 @@
 {
-  "title": "트랜잭셔널 메시징에도, 그냥 PostgreSQL 쓰세요",
-  "description": "트랜잭셔널 메시징이란 “메시지를 데이터베이스 트랜잭션의 일부로 발행하는 것”을 의미한다. 애플리케이션 비즈니스 로직에 의해 데이터베이스를 수정하는 작업과 메시지 큐에 메시지를 발행...",
-  "url": "https://yozm.wishket.com/magazine/detail/2833/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2833/image3.png",
+  "title": "‘진짜 서비스’에 쓸 AI 모델 만들기: 테스트와 모델 요구 사항",
+  "description": "실제 서비스를 위한 AI를 만들 때 필요한 것들을 마저 살펴볼까요? 학습 데이터셋 정의와 구축을 마치고 나면 정해야 하는 것은 테스트 방법입니다. 이 방법 역시 서비스 요구 사항으...",
+  "url": "https://yozm.wishket.com/magazine/detail/2834/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2834/1_v0M3unl.png",
   "color": 7017966
 }
