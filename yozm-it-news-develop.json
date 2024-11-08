@@ -1,7 +1,7 @@
 {
-  "title": "아�니 이 글자 왜 들어간 거예요? (2)",
-  "description": "물음표 문자가 생기는 이유를 알기 위해 유니코드에 대해 알아보고, 한글 문자 구성도 확인했습니다. 이제 euc-kr과 함께 utf까지 알아볼 차례입니다. 이 과정을 거쳐 유니코드의...",
-  "url": "https://yozm.wishket.com/magazine/detail/2837/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2837/26.png",
+  "title": "우리가 ‘Redis’에서 ‘SQLite’로 재설계한 이유",
+  "description": "Wafris는 웹 애플리케이션 방화벽을 오픈소스로 제공하고 있습니다. 저희는 다양한 프레임워크를 지원하는데, 그중에서도 Rails 미들웨어 클라이언트를 제공하고 있죠. 처음 v1 ...",
+  "url": "https://yozm.wishket.com/magazine/detail/2838/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2838/1_vh9pHJkqksf3wtmYodIyNg.webp",
   "color": 7017966
 }
