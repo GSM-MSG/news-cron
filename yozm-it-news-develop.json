@@ -1,7 +1,7 @@
 {
-  "title": "‘진짜 서비스’에 쓸 AI 모델 만들기: 테스트와 모델 요구 사항",
-  "description": "실제 서비스를 위한 AI를 만들 때 필요한 것들을 마저 살펴볼까요? 학습 데이터셋 정의와 구축을 마치고 나면 정해야 하는 것은 테스트 방법입니다. 이 방법 역시 서비스 요구 사항으...",
-  "url": "https://yozm.wishket.com/magazine/detail/2834/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2834/1_v0M3unl.png",
+  "title": "아�니 이 글자 왜 들어간 거예요? (2)",
+  "description": "물음표 문자가 생기는 이유를 알기 위해 유니코드에 대해 알아보고, 한글 문자 구성도 확인했습니다. 이제 euc-kr과 함께 utf까지 알아볼 차례입니다. 이 과정을 거쳐 유니코드의...",
+  "url": "https://yozm.wishket.com/magazine/detail/2837/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2837/26.png",
   "color": 7017966
 }
