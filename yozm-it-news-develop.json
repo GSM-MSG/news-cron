@@ -1,7 +1,7 @@
 {
-  "title": "우리가 ‘Redis’에서 ‘SQLite’로 재설계한 이유",
-  "description": "Wafris는 웹 애플리케이션 방화벽을 오픈소스로 제공하고 있습니다. 저희는 다양한 프레임워크를 지원하는데, 그중에서도 Rails 미들웨어 클라이언트를 제공하고 있죠. 처음 v1 ...",
-  "url": "https://yozm.wishket.com/magazine/detail/2838/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2838/1_vh9pHJkqksf3wtmYodIyNg.webp",
+  "title": "10분 만에 랭체인 이해하기",
+  "description": "시장에는 오픈AI의 챗GPT, 앤트로픽의 클로드, 구글의 제미나이 같은 대표 LLM을 제외하고도 수많은 언어 모델이 거의 매일 새롭게 나타나고 있으며, 각 모델마다 고유한 기능과 ...",
+  "url": "https://yozm.wishket.com/magazine/detail/2839/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2839/7.png",
   "color": 7017966
 }
