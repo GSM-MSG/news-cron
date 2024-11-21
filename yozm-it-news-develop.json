@@ -1,7 +1,7 @@
 {
-  "title": "파이썬 비동기는 성능 향상의 답이 아닙니다",
-  "description": "대부분의 개발자들은 비동기 파이썬이 더 높은 동시성을 제공한다는 것을 알고 있죠. 그래서 동적 웹사이트나 웹 API를 서빙하는 것과 같은 일반적인 작업에서 더 좋은 성능을 보일 거...",
-  "url": "https://yozm.wishket.com/magazine/detail/2853/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2853/thum1.png",
+  "title": "내가 ‘오픈소스’ 프로젝트를 진행하며 배운 것들",
+  "description": "불과 2년 전까지만 해도 저는 서류 탈락과 면접 불합격 통보를 일상처럼 받아들이고 있었습니다. 그렇게 수십 통의 거절 메일을 받으며, 개발자로서 부족하다고 느끼던 시기가 있었죠. ...",
+  "url": "https://yozm.wishket.com/magazine/detail/2856/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2856/open1.jpg",
   "color": 7017966
 }
