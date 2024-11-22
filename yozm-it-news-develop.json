@@ -1,7 +1,7 @@
 {
-  "title": "내가 ‘오픈소스’ 프로젝트를 진행하며 배운 것들",
-  "description": "불과 2년 전까지만 해도 저는 서류 탈락과 면접 불합격 통보를 일상처럼 받아들이고 있었습니다. 그렇게 수십 통의 거절 메일을 받으며, 개발자로서 부족하다고 느끼던 시기가 있었죠. ...",
-  "url": "https://yozm.wishket.com/magazine/detail/2856/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2856/open1.jpg",
+  "title": "개발자를 위한 랭체인 기초 개념과 환경 설정법",
+  "description": "랭체인. 도대체 무엇이, 얼마만큼 유용하길래 이렇게 인기가 많아졌을까요? 랭체인은 오픈 소스 프레임워크로, LLM 기반 애플리케이션을 구축하는 과정을 단순화시킵니다. 복잡한 LLM...",
+  "url": "https://yozm.wishket.com/magazine/detail/2858/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2858/thumbnail.png",
   "color": 7017966
 }
