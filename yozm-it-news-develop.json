@@ -1,7 +1,7 @@
 {
-  "title": "자율보안체계, 핵심으로 바로 들어가시죠",
-  "description": "지난 2024년 8월, 금융위원회가 『금융분야 망분리 개선 로드맵』을 발표했습니다. 망분리 규제 개선과 함께, 또 하나 눈길을 끈 것은 ‘자율보안체계’입니다. 로드맵에 따르면 금융...",
-  "url": "https://yozm.wishket.com/magazine/detail/2867/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2867/businesspeople-are-their-business-trip.jpg",
+  "title": "랭체인으로 LLM 토큰 한도를 처리하는 3가지 전략",
+  "description": "모든 LLM에는 토큰 한도가 미리 정해져 있죠, 아키텍처에 관계없이요. 보통 한 번의 상호작용에서 처리할 수 있는 토큰의 최대 개수가 있습니다. 현재 대부분 LLM은 토큰 한도를 ...",
+  "url": "https://yozm.wishket.com/magazine/detail/2868/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2868/4.png",
   "color": 7017966
 }
