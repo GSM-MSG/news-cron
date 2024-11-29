@@ -1,7 +1,7 @@
 {
-  "title": "랭체인으로 LLM 토큰 한도를 처리하는 3가지 전략",
-  "description": "모든 LLM에는 토큰 한도가 미리 정해져 있죠, 아키텍처에 관계없이요. 보통 한 번의 상호작용에서 처리할 수 있는 토큰의 최대 개수가 있습니다. 현재 대부분 LLM은 토큰 한도를 ...",
-  "url": "https://yozm.wishket.com/magazine/detail/2868/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2868/4.png",
+  "title": "개발자 영어 공부, 제대로 다시 시작하는 법",
+  "description": "손 놓고 있던 영어 공부, 다시 시작하려면 어떻게 해야 할까요? 막막한 개발자들을 위해 지난 10년간 다국적 IT 기업에서 고군분투하며 얻은 경험과 깨달음을 공유합니다. 우선 우리...",
+  "url": "https://yozm.wishket.com/magazine/detail/2869/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2869/image3.gif",
   "color": 7017966
 }
