@@ -1,7 +1,7 @@
 {
-  "title": "파이썬 3.13 성능 향상 완전 정복: Free-Threading",
-  "description": "지난 10월에 출시된 파이썬 3.13은 최근 릴리스 중에서도 성능 향상에 가장 큰 중점을 둔 버전입니다. 릴리스 노트를 살펴보면 성능에 큰 영향을 미칠 수 있는 주요 변경 사항들이...",
-  "url": "https://yozm.wishket.com/magazine/detail/2872/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2872/cover.webp",
+  "title": "쉽고 편리한 E2E 테스트 자동화를 꿈꾸며 (2)",
+  "description": "E2E 테스트의 중요한 마지막 단계인 모듈화를 통한 재사용, 나아가 Playwright를 다시 개선한 내용에 대해 알아보겠습니다. 모듈화 과정에서 저는 완전한 자동화를 위해 다양한...",
+  "url": "https://yozm.wishket.com/magazine/detail/2878/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2878/22.png",
   "color": 7017966
 }
