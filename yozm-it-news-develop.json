@@ -1,7 +1,7 @@
 {
-  "title": "쉽고 편리한 E2E 테스트 자동화를 꿈꾸며 (2)",
-  "description": "E2E 테스트의 중요한 마지막 단계인 모듈화를 통한 재사용, 나아가 Playwright를 다시 개선한 내용에 대해 알아보겠습니다. 모듈화 과정에서 저는 완전한 자동화를 위해 다양한...",
-  "url": "https://yozm.wishket.com/magazine/detail/2878/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2878/22.png",
+  "title": "랭체인으로 LLM에 기억을 만들어 주는 방법",
+  "description": "이번에는 메모리에 관한 모든 것을 소개합니다. 정확히 말하면 ‘랭체인’에서의 메모리에 관한 것이죠. 상호참조해결(Coreference Resolution), 랭체인에서 메모리를 다...",
+  "url": "https://yozm.wishket.com/magazine/detail/2879/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2879/top-view-paper-clips-with-green-background.jpg",
   "color": 7017966
 }

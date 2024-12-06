@@ -1,7 +1,7 @@
 {
-  "title": "\"JPA를 도입한 건 실수였어요\" - 15년차 엔터프라이즈 개발자의 고백",
-  "description": "당신의 도메인 모델이 프레임워크의 노예가 되어가고 있다면?...",
-  "url": "https://maily.so/devpill/posts/x1zg04jkrqg",
-  "thumbnailURL": "https://cdn.maily.so/s7kdf93ckzihosta89evjhcqm0lb",
+  "title": "더 적은 연결로 50배 빠른 데이터베이스 구현하기 - 당신의 커넥션 풀은 과유불급인가요?",
+  "description": "10,000명의 동시 접속자도 10개의 커넥션으로 충분하다고?...",
+  "url": "https://maily.so/devpill/posts/e9o02g3ez8w",
+  "thumbnailURL": "https://cdn.maily.so/19wu4vzte0nvfazdjedtc18x2pi9",
   "color": 14746397
 }
