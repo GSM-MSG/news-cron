@@ -71,7 +71,7 @@ export const sendFENews = async () => {
   }
 
   const webhookClient = new WebhookClient({
-    url: process.env.FE_NEWS_WEBHOOK ?? ""
+    url: process.env.NEWS_LETTER_WEBHOOK ?? ""
   });
 
   for (const news of filteredList.reverse()) {

@@ -65,7 +65,7 @@ export const sendEOPlanet = async () => {
   }
 
   const webhookClient = new WebhookClient({
-    url: process.env.EO_PLANET_WEBHOOK ?? ""
+    url: process.env.NEWS_LETTER_WEBHOOK ?? ""
   });
 
   for (const news of filteredList.reverse()) {

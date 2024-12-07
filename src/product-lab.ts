@@ -69,7 +69,7 @@ export const sendProductLab = async () => {
   }
 
   const webhookClient = new WebhookClient({
-    url: process.env.PRODUCT_LAB_WEBHOOK ?? ""
+    url: process.env.NEWS_LETTER_WEBHOOK ?? ""
   });
 
   for (const news of filteredList.reverse()) {

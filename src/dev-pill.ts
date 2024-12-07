@@ -69,7 +69,7 @@ export const sendDevPill = async () => {
   }
 
   const webhookClient = new WebhookClient({
-    url: process.env.DEV_PILL_WEBHOOK ?? ""
+    url: process.env.NEWS_LETTER_WEBHOOK ?? ""
   });
 
   for (const news of filteredList.reverse()) {

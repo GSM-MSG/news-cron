@@ -1,9 +1,8 @@
-import "dotenv/config";
 import axios, { AxiosResponse } from "axios";
 import * as cheerio from "cheerio";
 import { EmbedBuilder, WebhookClient } from "discord.js";
+import "dotenv/config";
 import { News } from "./news";
-import dayjs from "dayjs";
 import { getJSON, setJSON } from "./utils/json-utils";
 
 interface LastYozmProductNews {
@@ -68,7 +67,7 @@ export const sendProductYozm = async () => {
   }
 
   const webhookClient = new WebhookClient({
-    url: process.env.YOZM_WEBHOOK ?? ""
+    url: process.env.NEWS_LETTER_WEBHOOK ?? ""
   });
 
   const embeds = filteredList.reverse().map((news) =>

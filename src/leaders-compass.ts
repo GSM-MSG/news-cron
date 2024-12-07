@@ -69,7 +69,7 @@ export const sendLeadersCompass = async () => {
   }
 
   const webhookClient = new WebhookClient({
-    url: process.env.LEADERS_COMPASS_WEBHOOK ?? ""
+    url: process.env.NEWS_LETTER_WEBHOOK ?? ""
   });
 
   for (const news of filteredList.reverse()) {

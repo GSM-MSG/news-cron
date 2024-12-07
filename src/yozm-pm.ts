@@ -68,7 +68,7 @@ export const sendPMYozm = async () => {
   }
 
   const webhookClient = new WebhookClient({
-    url: process.env.YOZM_WEBHOOK ?? ""
+    url: process.env.NEWS_LETTER_WEBHOOK ?? ""
   });
 
   const embeds = filteredList.reverse().map((news) =>
