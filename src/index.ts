@@ -18,7 +18,6 @@ async function main() {
   await sendProductLab();
   await sendTipster();
   await sendLeadersCompass();
-  await sendFENews();
   await sendDevPill();
 }
 
