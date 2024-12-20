@@ -1,7 +1,7 @@
 {
-  "title": "오픈 API 인증은 어떻게 이루어질까?",
-  "description": "외부에 제공하는 REST API를 개발해야 할 때, 인증은 어떻게 해야 할까요? 외부와 계약을 맺은 특정 업체에만 제공해야 하는 API인데, 외부에서 접근하는 만큼 인증이 중요했습...",
-  "url": "https://yozm.wishket.com/magazine/detail/2897/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2897/1_38AigDJDlhFV8GRliQ7GHw.webp",
+  "title": "2025년 쿠버네티스 표준 아키텍처",
+  "description": "2025년 쿠버네티스는 이제 완연하게 성숙한 프로젝트가 된 것 같습니다. 그리고 쿠버네티스와 밀접한 연관이 있는 클라우드 네이티브 컴퓨팅 재단에서 성숙한 제품이라고 표현하는 졸업 ...",
+  "url": "https://yozm.wishket.com/magazine/detail/2900/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2900/tm2.png",
   "color": 7017966
 }
