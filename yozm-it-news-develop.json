@@ -1,7 +1,7 @@
 {
-  "title": "2025년 쿠버네티스 표준 아키텍처",
-  "description": "2025년 쿠버네티스는 이제 완연하게 성숙한 프로젝트가 된 것 같습니다. 그리고 쿠버네티스와 밀접한 연관이 있는 클라우드 네이티브 컴퓨팅 재단에서 성숙한 제품이라고 표현하는 졸업 ...",
-  "url": "https://yozm.wishket.com/magazine/detail/2900/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2900/tm2.png",
+  "title": "웹소켓으로 AWS 비용 10억을 날리고 얻은 교훈",
+  "description": "IPC(Inter-Process Communication)는 클라우드 비용 최적화를 고려할 때 흔히 간과되는 부분입니다. 하지만 AWS에서 초당 1TB의 영상을 IPC로 처리할 때...",
+  "url": "https://yozm.wishket.com/magazine/detail/2902/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2902/pic_1.jpeg",
   "color": 7017966
 }
