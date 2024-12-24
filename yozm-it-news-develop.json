@@ -1,7 +1,7 @@
 {
-  "title": "웹소켓으로 AWS 비용 10억을 날리고 얻은 교훈",
-  "description": "IPC(Inter-Process Communication)는 클라우드 비용 최적화를 고려할 때 흔히 간과되는 부분입니다. 하지만 AWS에서 초당 1TB의 영상을 IPC로 처리할 때...",
-  "url": "https://yozm.wishket.com/magazine/detail/2902/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2902/pic_1.jpeg",
+  "title": "개발자에게 “개발 문서 꼭 써 달라” 말했습니다",
+  "description": "어느 날, 지라(Jira) 백로그에 “개발자들이 문서 작업을 하고 있는지” 확인하는 댓글이 달렸습니다. 상사의 댓글에 어떻게 대응해야 할지 팀원들과 고민에 빠졌습니다. 사실, 그전...",
+  "url": "https://yozm.wishket.com/magazine/detail/2903/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2903/image7.png",
   "color": 7017966
 }
