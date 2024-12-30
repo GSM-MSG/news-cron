@@ -1,7 +1,7 @@
 {
-  "title": "데이터의 보관 창고, 데이터베이스 기초 이해하기",
-  "description": "데이터베이스는 쉽게 데이터를 보관해 두는 창고라고 생각하면 됩니다. 그런데, 이 데이터를 우리가 메모장에 대충 기록해 두듯이 아무렇게나 쌓아 두는 게 아니라 ‘체계적으로 관리’하는...",
-  "url": "https://yozm.wishket.com/magazine/detail/2908/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2908/1.png",
+  "title": "브라우저가 화면을 그리는 방법, 렌더링 과정 이해하기",
+  "description": "렌더링(Rendering)이란, 브라우저가 HTML, CSS, Javascript를 해석해, 우리가 보는 화면에 실제로 나타내는 과정을 말합니다. 단순히 파일을 읽는 것만 아니라,...",
+  "url": "https://yozm.wishket.com/magazine/detail/2909/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2909/001.png",
   "color": 7017966
 }
