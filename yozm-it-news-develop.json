@@ -1,7 +1,7 @@
 {
-  "title": "실전 교훈: 비동기/대기보다 스레드가 유리한 이유",
-  "description": "비동기/대기(async/await) 기반 시스템의 어려움과 백프레셔*를 제대로 지원하지 못하는 문제에 대해 글을 쓴 지 몇 년이 지났습니다. 몇 년이 지난 지금도 이 문제가 크게 ...",
-  "url": "https://yozm.wishket.com/magazine/detail/2918/",
-  "thumbnailURL": "https://yozm.wishket.com/media/news/2918/43387_cypWsEl.jpg",
+  "title": "내가 ‘차트 라이브러리’를 만들며 배운 것들",
+  "description": "“죄송하지만, 라이브러리에서 지원하지 않는 기능이라…” 프론트엔드 개발자라면 누구나 한 번쯤 이런 말을 해본 적이 있을 겁니다. 특히 데이터 시각화가 중요한 프로젝트를 진행할 때면...",
+  "url": "https://yozm.wishket.com/magazine/detail/2919/",
+  "thumbnailURL": "https://yozm.wishket.com/media/news/2919/image2.gif",
   "color": 7017966
 }
