@@ -1,6 +1,6 @@
 {
-  "title": "메시지 큐? 이제 Kafka로 끝내세요",
-  "description": "복잡한 분산 시스템 아키텍처가 단숨에 이해되는 Kafka 완전 정복...",
-  "url": "https://maily.so/devpill/posts/g0zm85weoql",
+  "title": "Stripe가 매일 수백만 건의 결제에서 단 한 건의 이중 결제도 놓치지 않는 비결",
+  "description": "멱등성 API 설계 기본기 다지기...",
+  "url": "https://maily.so/devpill/posts/1gz24m3wr3q",
   "color": 14746397
 }
