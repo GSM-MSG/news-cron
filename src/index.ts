@@ -10,14 +10,8 @@ import { sendPMYozm } from "./yozm-pm";
 import { sendProductYozm } from "./yozm-product";
 
 async function main() {
-  await sendDevelopYozm();
-  await sendDesignYozm();
-  await sendPMYozm();
-  await sendProductYozm();
   await sendEOPlanet();
   await sendProductLab();
-  await sendTipster();
-  await sendLeadersCompass();
   await sendDevPill();
 }
 
