@@ -39,7 +39,7 @@ const getEOPlanetList = async () => {
     const news = {
       title: $(elem).find(".title").text(),
       description: $(elem).find(".body").text().slice(0, 100) + "...",
-      url: eoPlanetBaseURL + $(elem).find(".title-container a").attr("href"),
+      url: eoPlanetBaseURL + $(elem).find(".magazine-content-container a").attr("href"),
       thumbnailURL: `${eoPlanetBaseURL}${$(elem).find("a").attr("src")}`,
       color: 0x71f3a0
     };
