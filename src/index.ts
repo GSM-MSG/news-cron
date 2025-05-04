@@ -11,7 +11,6 @@ import { sendProductYozm } from "./yozm-product";
 
 async function main() {
   await sendEOPlanet();
-  await sendProductLab();
   await sendDevPill();
 }
 
